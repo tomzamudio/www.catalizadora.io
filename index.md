@@ -45,6 +45,12 @@
   - lots of existing minority wealth that has no where to go (e.g. tons of real estate wealth).  if you are not in the sillicon valley circles, you don't have access to good VC funds.  and there is already a bias in who makes it to these circles.
   - lots of new crypto money looking to rebalance but still have significant appetite for risk.
 
+## Investment Criteria
+- focus on data and customer experience
+- solves a community problem they have first hand knowledge of
+- focus scalability
+
+
 ### Open Questions
 - how big would the check sizes be?
 - what's the timeline/exit strategy?
